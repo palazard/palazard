@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!!!+Welcome+to+my+crazy+world)](https://git.io/typing-svg)
 
 I'm Pauline Alazard.
-Industrial engineer or problems solver who love coding 👩‍💻, learning & creating new things 👩‍🎓 and surfing around the world 🏄‍♀️
+Industrial engineer / problem solver who love coding 👩‍💻, learning & creating new things 👩‍🎓 and surfing around the world 🏄‍♀️
 
 ---
 ### Quick Introduction
