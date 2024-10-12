@@ -5,10 +5,9 @@ Industrial engineer / problem solver who love coding 👩‍💻, learning & cre
 
 ---
 ### Quick Introduction
-- 🔭 I’m currently working on fun full stack JS project about blockchain
-- 🌱 I’m currently learning about decentralized Applications in Web3
+- 🌱 I’m currently deepening my knowledge of JS and challenging myself on codewars
 - 💼 I'm open to work on remote
-- 😄 Hakuna Matata: meditation, catching waves, reading books, coconuts & palmtrees
+- 😄 Hakuna Matata: meditation, catching waves, reading books.
 - ⚡ Fun fact: I have 2 palm trees tattooed on my back
 
 ---
